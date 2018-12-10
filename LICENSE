@@ -2,10 +2,14 @@
                        Version 3, 29 June 2007
 
 <<<<<<< HEAD
+<<<<<<< HEAD
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
 =======
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 >>>>>>> 488de53a52c6940f06f1a324c2fd2397a63b433e
+=======
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+>>>>>>> ae6dcee5564a2e3fa80ad3b294c781db0b01ce7a
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
@@ -636,12 +640,17 @@ state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     {one line to give the program's name and a brief idea of what it does.}
     Copyright (C) {year}  {name of author}
 =======
     <one line to give the program's name and a brief idea of what it does.>
     Copyright (C) <year>  <name of author>
 >>>>>>> 488de53a52c6940f06f1a324c2fd2397a63b433e
+=======
+    <one line to give the program's name and a brief idea of what it does.>
+    Copyright (C) <year>  <name of author>
+>>>>>>> ae6dcee5564a2e3fa80ad3b294c781db0b01ce7a
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -655,10 +664,14 @@ the "copyright" line and a pointer to where the full notice is found.
 
     You should have received a copy of the GNU General Public License
 <<<<<<< HEAD
+<<<<<<< HEAD
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 =======
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 >>>>>>> 488de53a52c6940f06f1a324c2fd2397a63b433e
+=======
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+>>>>>>> ae6dcee5564a2e3fa80ad3b294c781db0b01ce7a
 
 Also add information on how to contact you by electronic and paper mail.
 
@@ -666,10 +679,14 @@ Also add information on how to contact you by electronic and paper mail.
 notice like this when it starts in an interactive mode:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     {project}  Copyright (C) {year}  {fullname}
 =======
     <program>  Copyright (C) <year>  <name of author>
 >>>>>>> 488de53a52c6940f06f1a324c2fd2397a63b433e
+=======
+    <program>  Copyright (C) <year>  <name of author>
+>>>>>>> ae6dcee5564a2e3fa80ad3b294c781db0b01ce7a
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
@@ -682,10 +699,14 @@ might be different; for a GUI interface, you would use an "about box".
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU GPL, see
 <<<<<<< HEAD
+<<<<<<< HEAD
 <http://www.gnu.org/licenses/>.
 =======
 <https://www.gnu.org/licenses/>.
 >>>>>>> 488de53a52c6940f06f1a324c2fd2397a63b433e
+=======
+<https://www.gnu.org/licenses/>.
+>>>>>>> ae6dcee5564a2e3fa80ad3b294c781db0b01ce7a
 
   The GNU General Public License does not permit incorporating your program
 into proprietary programs.  If your program is a subroutine library, you
@@ -693,7 +714,11 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <<<<<<< HEAD
+<<<<<<< HEAD
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 =======
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 >>>>>>> 488de53a52c6940f06f1a324c2fd2397a63b433e
+=======
+<https://www.gnu.org/licenses/why-not-lgpl.html>.
+>>>>>>> ae6dcee5564a2e3fa80ad3b294c781db0b01ce7a
